@@ -1,7 +1,7 @@
 
 # Clonello
 
-Clonello is a simplified Trello clone developed using frontend, backend, and cloud, to build a MEVN (MongoDB, Express, Vue.js, Node.js).
+Clonello is a simplified Trello clone developed using frontend, backend, and cloud, to build a MEVN app (MongoDB, Express, Vue.js, Node.js).
 
 ![Alt text](./3-tier-architecture.png?raw=true "Architecture")
 
